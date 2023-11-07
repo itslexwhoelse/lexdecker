@@ -30,7 +30,7 @@ let postsArray = [
   //[ "posts/2020-11-10-Special-Characters-Example.html", encodeURI( 'Spéci@l "Character\'s" Examp|e' ) ],
   //[ "posts/2020-11-10-My-Third-Post-Example.html" ],
   //[ "posts/2020-11-10-My-Second-Post-Example.html" ],
-  ["posts/2023-11-07-open-source-project.html.html"],
+  ["posts/2023-11-07-open-source-project.html"],
   ["posts/2023-10-18-what-i-think-about-ross-douthats-op-ed-piece.html"],
   ["posts/2023-10-03-a-post-about-small-shared-social-networks.html"],
   ["posts/2023-09-20-social-media-is-not-irredeemable.html"]
